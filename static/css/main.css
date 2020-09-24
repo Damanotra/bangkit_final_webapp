@@ -19,7 +19,7 @@ header {
 .get_predict {
   font-size: 20;
   font-family: 'Poppins', sans-serif;
-  float: right;
+  float: center;
 }
 
 .first {
